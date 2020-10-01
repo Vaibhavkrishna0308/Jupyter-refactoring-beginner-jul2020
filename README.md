@@ -9,7 +9,7 @@
 ## Prerequisites
 * your GitHub account
 * git
-* [miniconda](https://docs.conda.io/en/latest/miniconda.html) or [anaconda](https://www.anaconda.com/products/individual)
+* Use [miniconda](https://docs.conda.io/en/latest/miniconda.html) or [anaconda](https://www.anaconda.com/products/individual)
 
 ## Usage
 * Fork this repository
